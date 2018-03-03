@@ -39,7 +39,7 @@
 
 //     // State encoding
 
-//     // Rounds will be played that builf the word "hello"
+//     // Rounds will be played that build the word "hello"
 //     // The first person will sign state containing "h"
 //     // followed by the second account recieving and checking the letter
 //     // If the letter is not in "hello" then they may present the invalid state
