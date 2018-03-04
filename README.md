@@ -36,7 +36,7 @@ TODO
 
 ### Crypto Kitties Battle Channel
 
-TODO
+A smart contract battle arena for crypto kitties. 
 
 ## Background Information:
 
